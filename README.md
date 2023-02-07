@@ -1,2 +1,2 @@
 # IBM-Capstone-Project
-Final Capstone Project files.
+Final Capstone Project files for the course.
